@@ -45,6 +45,3 @@ The processed dataset contains waveform data and associated information:
 - Peak polarity
 
 
-→ `load_in_process_data.py`
-
-→ Further signal processing and acoustic source analysis
