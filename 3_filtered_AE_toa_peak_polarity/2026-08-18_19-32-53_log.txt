@@ -1,0 +1,28 @@
+2026-08-18 19:32:53.122246
+daly_lab_ae_pipeline
+compute_peak_polarity
+version: 1.0
+Nick Tulshibagwale
+Daly Lab, Mechanical Eng. Department
+University of California, Santa Barbara
+
+
+INPUTS
+selected .json file: G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/3_filtered_AE_toa/acoustic_data_2_channel_filter_toa.json
+selected peak polarity method: MANUAL
+
+PEAK POLARITY
+Loading in Dataset from G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/3_filtered_AE_toa/acoustic_data_2_channel_filter_toa.json
+Successfully loaded in .json file.
+
+event :    16  channel :     1  peak_polarity : 0.020127
+event :    16  channel :     2  peak_polarity : -0.044777
+event :    29  channel :     1  peak_polarity : -0.028396
+event :    29  channel :     2  peak_polarity : 0.034998
+event :    35  channel :     1  peak_polarity : 0.134026
+event :    35  channel :     2  peak_polarity : 0.514608
+event :    21  channel :     1  peak_polarity : -0.074949
+event :    21  channel :     2  peak_polarity : -0.369423
+dataset .json saved  : G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/3_filtered_AE_toa/acoustic_data_2_channel_filter_toa_peak_polarity.json
+
+PROGRAM END

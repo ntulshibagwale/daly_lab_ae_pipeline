@@ -1,0 +1,95 @@
+2026-08-18 18:40:27.233656
+daly_lab_ae_pipeline
+filter_ae
+version: 1.0
+Nick Tulshibagwale
+Daly Lab, Mechanical Eng. Department
+University of California, Santa Barbara
+
+
+INPUTS
+selected .txt file: G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/1_raw_AE_txt/raw_acoustic_data_2_channel.txt
+selected filter method: MANUAL
+
+FILTERING
+ae file loaded succesfully.
+num channels  :     2
+num signals   :    63
+sampling freq : 10000000
+signal length :  1024
+begin MANUAL filtering...
+event :     1  NOISE
+event :     2  NOISE
+event :     3  NOISE
+event :     4  NOISE
+event :     5  NOISE
+event :     6  NOISE
+event :     7  NOISE
+event :     8  NOISE
+event :     9  NOISE
+event :    10  NOISE
+event :    11  NOISE
+event :    12  NOISE
+event :    13  NOISE
+event :    14  NOISE
+event :    15  NOISE
+event :    16  FILTER
+event :    17  NOISE
+event :    18  NOISE
+event :    19  NOISE
+event :    20  NOISE
+event :    21  FILTER
+event :    22  NOISE
+event :    23  NOISE
+event :    24  NOISE
+event :    25  NOISE
+event :    26  NOISE
+event :    27  NOISE
+event :    28  NOISE
+event :    29  FILTER
+event :    30  NOISE
+event :    31  NOISE
+event :    32  NOISE
+event :    33  NOISE
+event :    34  NOISE
+event :    35  FILTER
+event :    36  NOISE
+event :    37  NOISE
+event :    38  NOISE
+event :    39  NOISE
+event :    40  NOISE
+event :    41  NOISE
+event :    42  NOISE
+event :    43  NOISE
+event :    44  NOISE
+event :    45  NOISE
+event :    46  NOISE
+event :    47  NOISE
+event :    48  NOISE
+event :    49  NOISE
+event :    50  NOISE
+event :    51  NOISE
+event :    52  NOISE
+event :    53  NOISE
+event :    54  NOISE
+event :    55  NOISE
+event :    56  NOISE
+event :    57  NOISE
+event :    58  NOISE
+event :    59  NOISE
+event :    60  NOISE
+event :    61  NOISE
+event :    62  NOISE
+event :    63  NOISE
+filtering completed.
+num noise events :    59
+num filter events :     4
+noise events: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63
+filter events: 16, 21, 29, 35
+
+OUTPUT
+dataset .json saved  : G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/1_raw_AE_txt/raw_acoustic_data_2_channel_noise.json
+dataset .json saved  : G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/1_raw_AE_txt/raw_acoustic_data_2_channel_filter.json
+noise and filter data saved succesfully.
+
+PROGRAM END

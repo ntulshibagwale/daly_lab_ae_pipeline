@@ -1,0 +1,28 @@
+2026-08-18 18:43:08.437345
+daly_lab_ae_pipeline
+mark_time_of_arrival
+version: 1.0
+Nick Tulshibagwale
+Daly Lab, Mechanical Eng. Department
+University of California, Santa Barbara
+
+
+INPUTS
+selected .json file: G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/2_filtered_AE_json/acoustic_data_2_channel_filter.json
+selected TOA method: MANUAL
+
+TIME-OF-ARRIVAL
+Loading in Dataset from G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/2_filtered_AE_json/acoustic_data_2_channel_filter.json
+Successfully loaded in .json file.
+
+event :    16  channel :     1  toa : 23.069531
+event :    16  channel :     2  toa : 23.307935
+event :    29  channel :     1  toa : 22.950329
+event :    29  channel :     2  toa : 23.771498
+event :    35  channel :     1  toa : 23.090008
+event :    35  channel :     2  toa : 23.129325
+event :    21  channel :     1  toa : 24.129103
+event :    21  channel :     2  toa : 23.797987
+dataset .json saved  : G:/My Drive/phd/projects/daly_lab_ae_pipeline/daly_lab_ae_pipeline_portfolio/2_filtered_AE_json/acoustic_data_2_channel_filter_toa.json
+
+PROGRAM END
